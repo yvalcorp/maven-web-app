@@ -1,9 +1,9 @@
 <html>
 <body>
-<h1><font color='red'>Welcome to Yvalcorp IT <font></h1>
+<h1><font color='blue'>Welcome to Yvalcorp IT <font></h1>
 <h2>Learn Here.. Lead Anywhere..!! </h2>
 
-<a href="https://Yvalcorp.com">Click Here To See Ashok IT Training Schedules</a>
+<a href="https://Yvalcorp.com">Click Here to Schedule a Consulting Session</a>
   
   <h2> Call Us : +1 832-929-5849</h2>
 
